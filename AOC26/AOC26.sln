@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretEntrance", "SecretEntrance\SecretEntrance.csproj", "{0A62DAF1-7D51-4239-A418-6EE9F7AFB720}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F6AB00EA-F8DB-4A3F-95D9-B22A7F47C0CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csproj", "{17063DB6-7D4B-4808-9515-D0A47E86DF05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A62DAF1-7D51-4239-A418-6EE9F7AFB720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A62DAF1-7D51-4239-A418-6EE9F7AFB720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A62DAF1-7D51-4239-A418-6EE9F7AFB720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A62DAF1-7D51-4239-A418-6EE9F7AFB720}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6AB00EA-F8DB-4A3F-95D9-B22A7F47C0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6AB00EA-F8DB-4A3F-95D9-B22A7F47C0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6AB00EA-F8DB-4A3F-95D9-B22A7F47C0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6AB00EA-F8DB-4A3F-95D9-B22A7F47C0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17063DB6-7D4B-4808-9515-D0A47E86DF05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17063DB6-7D4B-4808-9515-D0A47E86DF05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17063DB6-7D4B-4808-9515-D0A47E86DF05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17063DB6-7D4B-4808-9515-D0A47E86DF05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
