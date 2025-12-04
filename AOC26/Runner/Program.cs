@@ -12,6 +12,7 @@ class Program
             0 => new SecretEntranceSolver(),
             1 => new GiftShop.Solver(),
             2 => new Lobby.Solver(),
+            3 => new PrintingDepartment.Solver(),
             _ => throw new NotImplementedException(),
         };
         DirectoryInfo? dir = new DirectoryInfo(Environment.CurrentDirectory);

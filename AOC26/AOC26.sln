@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftShop", "GiftShop\GiftSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lobby", "Lobby\Lobby.csproj", "{AB2846EF-7CAB-47A5-9453-830FAB031024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingDepartment", "PrintingDepartment\PrintingDepartment.csproj", "{335129EB-C2F1-4C78-B78C-F9AC4B016D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335129EB-C2F1-4C78-B78C-F9AC4B016D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335129EB-C2F1-4C78-B78C-F9AC4B016D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335129EB-C2F1-4C78-B78C-F9AC4B016D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335129EB-C2F1-4C78-B78C-F9AC4B016D6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
