@@ -11,6 +11,7 @@ class Program
         solver = day switch
         {
             0 => new SecretEntranceSolver(),
+            1 => new GiftShop.Solver(),
             _ => throw new NotImplementedException(),
         };
         DirectoryInfo? dir = new DirectoryInfo(Environment.CurrentDirectory);
