@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner", "Runner\Runner.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GiftShop", "GiftShop\GiftShop.csproj", "{3F241919-96F3-4EC0-AD32-C138D2069555}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lobby", "Lobby\Lobby.csproj", "{AB2846EF-7CAB-47A5-9453-830FAB031024}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{3F241919-96F3-4EC0-AD32-C138D2069555}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F241919-96F3-4EC0-AD32-C138D2069555}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F241919-96F3-4EC0-AD32-C138D2069555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB2846EF-7CAB-47A5-9453-830FAB031024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

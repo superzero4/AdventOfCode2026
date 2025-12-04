@@ -1,5 +1,4 @@
 ﻿using SecretEntrance;
-
 namespace Core;
 
 class Program
@@ -12,6 +11,7 @@ class Program
         {
             0 => new SecretEntranceSolver(),
             1 => new GiftShop.Solver(),
+            2 => new Lobby.Solver(),
             _ => throw new NotImplementedException(),
         };
         DirectoryInfo? dir = new DirectoryInfo(Environment.CurrentDirectory);
