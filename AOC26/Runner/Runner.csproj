@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\Cafeteria\Cafeteria.csproj" />
       <ProjectReference Include="..\Core\Core.csproj" />
       <ProjectReference Include="..\GiftShop\GiftShop.csproj" />
       <ProjectReference Include="..\Lobby\Lobby.csproj" />

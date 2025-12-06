@@ -13,6 +13,7 @@ class Program
             1 => new GiftShop.Solver(),
             2 => new Lobby.Solver(),
             3 => new PrintingDepartment.Solver(),
+            4 => new Cafeteria.Solver(),
             _ => throw new NotImplementedException(),
         };
         DirectoryInfo? dir = new DirectoryInfo(Environment.CurrentDirectory);
