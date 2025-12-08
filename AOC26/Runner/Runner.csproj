@@ -11,6 +11,7 @@
       <ProjectReference Include="..\Cafeteria\Cafeteria.csproj" />
       <ProjectReference Include="..\Core\Core.csproj" />
       <ProjectReference Include="..\GiftShop\GiftShop.csproj" />
+      <ProjectReference Include="..\Laboratories\Laboratories.csproj" />
       <ProjectReference Include="..\Lobby\Lobby.csproj" />
       <ProjectReference Include="..\PrintingDepartment\PrintingDepartment.csproj" />
       <ProjectReference Include="..\SecretEntrance\SecretEntrance.csproj" />
