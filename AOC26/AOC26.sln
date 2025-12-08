@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashCompactor", "TrashComp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratories", "Laboratories\Laboratories.csproj", "{E9CF8E1D-3891-4696-9065-800B2E644994}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground", "Playground\Playground.csproj", "{31ED1F4F-05E4-449A-90D7-0133D3BF469F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{E9CF8E1D-3891-4696-9065-800B2E644994}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9CF8E1D-3891-4696-9065-800B2E644994}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9CF8E1D-3891-4696-9065-800B2E644994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31ED1F4F-05E4-449A-90D7-0133D3BF469F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31ED1F4F-05E4-449A-90D7-0133D3BF469F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31ED1F4F-05E4-449A-90D7-0133D3BF469F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31ED1F4F-05E4-449A-90D7-0133D3BF469F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
