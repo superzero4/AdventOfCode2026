@@ -17,6 +17,7 @@ class Program
             5 => new TrashCompactor.Solver(),
             6 => new Laboratories.Solver(),
             7 => new Playground.Solver(),
+            8 => new MovieTheater.Solver(),
             _ => throw new NotImplementedException(),
         };
         DirectoryInfo? dir = new DirectoryInfo(Environment.CurrentDirectory);

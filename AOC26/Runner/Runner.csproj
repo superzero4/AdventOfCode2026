@@ -13,6 +13,7 @@
       <ProjectReference Include="..\GiftShop\GiftShop.csproj" />
       <ProjectReference Include="..\Laboratories\Laboratories.csproj" />
       <ProjectReference Include="..\Lobby\Lobby.csproj" />
+      <ProjectReference Include="..\MovieTheater\MovieTheater.csproj" />
       <ProjectReference Include="..\Playground\Playground.csproj" />
       <ProjectReference Include="..\PrintingDepartment\PrintingDepartment.csproj" />
       <ProjectReference Include="..\SecretEntrance\SecretEntrance.csproj" />
